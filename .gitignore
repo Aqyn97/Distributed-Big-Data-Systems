@@ -1,0 +1,10 @@
+left_join_result.csv/
+inner_join_result.parquet/
+final_analytics.json/
+category_summary.csv/
+*.csv
+left_join_result.csv/
+inner_join_result.parquet/
+final_analytics.json/
+category_summary.csv/
+*.csv
