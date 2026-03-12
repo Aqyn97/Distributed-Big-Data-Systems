@@ -1,0 +1,8 @@
+course_id,course_name,department,enrollment,credits
+CS101,Introduction to Computing,IT,120,4
+HIST202,Modern Indian History,History,45,3
+ENG301,English Literature: 19th Century,English,30,3
+CS205,Data Structures with C++,IT,85,4
+ZIG101,Low-level Systems with Zig,IT,25,4
+HIST105,History of Central Asia,History,60,3
+ARAB101,Arabic Language Basics,Languages,20,2

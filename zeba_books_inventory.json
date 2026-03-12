@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "51 English Poets",
+    "format": "Paperback",
+    "price": 15.99,
+    "stock": {
+      "warehouse": "Almaty",
+      "quantity": 150
+    }
+  },
+  {
+    "id": 2,
+    "title": "The Rust Way",
+    "format": "Hardcover",
+    "price": 29.99,
+    "stock": {
+      "warehouse": "Kaskelen",
+      "quantity": 40
+    }
+  },
+  {
+    "id": 3,
+    "title": "Islamic Philosophy",
+    "format": "Ebook",
+    "price": 9.99,
+    "stock": {
+      "warehouse": "Digital",
+      "quantity": 9999
+    }
+  },
+  {
+    "id": 4,
+    "title": "Linux Systems",
+    "format": "Paperback",
+    "price": 24.5,
+    "stock": {
+      "warehouse": "Almaty",
+      "quantity": 85
+    }
+  },
+  {
+    "id": 5,
+    "title": "Zig for Beginners",
+    "format": "Paperback",
+    "price": 22.0,
+    "stock": {
+      "warehouse": "Kaskelen",
+      "quantity": 12
+    }
+  }
+]

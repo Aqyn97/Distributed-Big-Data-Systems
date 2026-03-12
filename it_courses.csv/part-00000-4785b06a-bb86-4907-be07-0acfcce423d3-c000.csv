@@ -1,0 +1,4 @@
+course_id,course_name,department,student_count,credits,total_credits_sum,label
+CS101,Introduction to Computing,IT,120,4,480,Popular
+CS205,Data Structures with C++,IT,85,4,340,Regular
+ZIG101,Low-level Systems with Zig,IT,25,4,100,Regular
